@@ -24,8 +24,8 @@
     "babel-preset-react": "^6.24.1",
     "express": "^4.16.2",
     "mysql": "^2.15.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-router-dom": "^4.2.2",
     "superagent": "^3.8.2"
   }
